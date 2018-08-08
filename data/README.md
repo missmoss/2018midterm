@@ -1,4 +1,4 @@
-argi.csv重要欄位說明
+argi.csv（美國眾議院期中選舉7月28日選情及農產品選區資料）重要欄位說明：
 
 1. soybean.value：黃豆產量
 2. sorghum.value：高粱產量  
@@ -21,3 +21,16 @@ argi.csv重要欄位說明
 19. district.c：中文眾議院選區名稱
 20. curr.rate：最近一次選情報告（中文）
 
+soy.senate.csv（美國參議院期中選舉7月28日選情及大豆產量資料）重要欄位說明：
+
+	STATEFP：美國各州代碼(妳們手頭上的美國以州為單位的shape應該是也有這個欄位，應該勢能用這個欄位合併)
+	soybean.sum：黃豆州產量
+	soybean.high：黃豆產量超過1000萬蒲式耳的州
+	state_c：中文州名（全名）
+	state_c_abbr：中文州名（簡稱）
+	Sabato.20180621：最近一次選情報告
+	d_to_r：原本民主黨籍參議員的州，現在有利於共和黨
+	state_c：中文州名（全名）
+	state_c_abbr：中文州名（簡稱）
+	party.c：現任眾議員黨籍（中文）
+	curr.rate：最近一次選情報告（中文）
