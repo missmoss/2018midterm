@@ -1,8 +1,9 @@
-#argi.csv重要欄位說明
+argi.csv重要欄位說明
 
-soybean.value：黃豆產量
-sorghum.value：高粱產量  
-corn.value：玉米產量
+1. soybean.value：黃豆產量
+2. sorghum.value：高粱產量  
+3. corn.value：玉米產量
+
 wheat.value：小麥產量
 Code：眾議院選區代碼
 Clinton.2016：希拉蕊得票率
