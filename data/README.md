@@ -1,4 +1,4 @@
-argi.csv重要欄位說明
+#argi.csv重要欄位說明
 
 soybean.value：黃豆產量
 sorghum.value：高粱產量  
