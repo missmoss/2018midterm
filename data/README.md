@@ -28,7 +28,7 @@ soy.senate.csv（美國參議院期中選舉7月28日選情及大豆產量資料
 	soybean.high：黃豆產量超過1000萬蒲式耳的州
 	state_c：中文州名（全名）
 	state_c_abbr：中文州名（簡稱）
-	Sabato.20180621：最近一次選情報告
+	Sabato.20180724：最近一次選情報告
 	d_to_r：原本民主黨籍參議員的州，現在有利於共和黨
 	state_c：中文州名（全名）
 	state_c_abbr：中文州名（簡稱）
