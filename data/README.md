@@ -1,4 +1,4 @@
-argi.csv（美國眾議院期中選舉7月28日選情及農產品選區資料）重要欄位說明：
+argi.csv及argi_20180823.csv重要欄位說明：
 
 	soybean.value：黃豆產量
 	sorghum.value：高粱產量  
@@ -7,7 +7,7 @@ argi.csv（美國眾議院期中選舉7月28日選情及農產品選區資料）
 	Code：眾議院選區代碼
 	Clinton.2016：希拉蕊得票率
 	Trump.2016：川普得票率
-	Sabato.20180724：最近一次選情報告
+	Sabato.2018XXXX：歷次選情報告時間
 	party.cum：現任眾議員黨籍（英文）
 	r_to_d：原共和黨議員現在有利於民主黨
 	d_to_r：原民主黨議員現在有利於共和黨
